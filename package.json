@@ -1,0 +1,35 @@
+{
+  "name": "getir-nodejs-bootcamp-week-2-assignment-shaksiper",
+  "version": "1.0.0",
+  "description": "homework project using http module for getir bootcamp week 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-shaksiper.git"
+  },
+  "keywords": [
+    "getir",
+    "bir",
+    "mutluluk",
+    "http",
+    "hello",
+    "world"
+  ],
+  "author": "Can B. Cetin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-shaksiper/issues"
+  },
+  "homepage": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-shaksiper#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1"
+  }
+}
